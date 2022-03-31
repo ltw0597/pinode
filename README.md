@@ -1,0 +1,2 @@
+# pinode
+node operating
